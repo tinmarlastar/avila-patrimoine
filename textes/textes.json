@@ -1,0 +1,3766 @@
+{
+ "404.html": [
+  [
+   "head",
+   "title",
+   "Studiova"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "404"
+  ],
+  [
+   "corps",
+   "h2",
+   "Oops! Page Not Found"
+  ],
+  [
+   "corps",
+   "span",
+   "Back to Home"
+  ],
+  [
+   "corps",
+   "a",
+   "Get This Template"
+  ]
+ ],
+ "about-us.html": [
+  [
+   "head",
+   "title",
+   "Studiova"
+  ],
+  [
+   "en-tête",
+   "p",
+   "Menu"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Home"
+  ],
+  [
+   "en-tête",
+   "a",
+   "About"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Projects"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Blog"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Services"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Contact"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Docs"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Sign In"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Sign Up"
+  ],
+  [
+   "en-tête",
+   "a",
+   "+1-212-456-7890"
+  ],
+  [
+   "en-tête",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "corps",
+   "p",
+   "We craft"
+  ],
+  [
+   "corps",
+   "span",
+   "innovative digital"
+  ],
+  [
+   "corps",
+   "p",
+   "designs that amplify brand identity and drive meaningful results"
+  ],
+  [
+   "corps",
+   "h1",
+   "About us"
+  ],
+  [
+   "corps",
+   "h2",
+   "Studiova."
+  ],
+  [
+   "corps",
+   "p",
+   "It’s a canvas for your creativity. It’s your opportunity to transform bold ideas into dynamic, interactive experiences. Your work can shape identities, tell compelling stories, or spark meaningful change. As the digital landscape grows, so do the possibilities. And whether you thrive working remotely or in a buzzing agency space, the thrill of seeing your vision come to life is unmatched."
+  ],
+  [
+   "corps",
+   "p",
+   "At Studiova, we bring ideas to life through a range of services: branding, web development, agency solutions, content creation, SaaS, and motion & 3D modeling. As a web designer, you merge artistry and technology to craft \"digital experiences\" that inform, captivate, and inspire. Every day brings something new — one moment you’re sketching innovative concepts, the next you’re turning them into seamless, responsive designs. Web design keeps you pushing boundaries and creating at every turn!"
+  ],
+  [
+   "corps",
+   "span",
+   "45"
+  ],
+  [
+   "corps",
+   "h2",
+   "+"
+  ],
+  [
+   "corps",
+   "h4",
+   "Presence in global markets"
+  ],
+  [
+   "corps",
+   "p",
+   "Expanding reach across international regions with localized expertise and worldwide impact."
+  ],
+  [
+   "corps",
+   "span",
+   "15"
+  ],
+  [
+   "corps",
+   "h2",
+   "M"
+  ],
+  [
+   "corps",
+   "h4",
+   "In strategic investments"
+  ],
+  [
+   "corps",
+   "p",
+   "Driving growth with curated partnerships and high-performing, audience-driven initiatives."
+  ],
+  [
+   "corps",
+   "span",
+   "158"
+  ],
+  [
+   "corps",
+   "h2",
+   "+"
+  ],
+  [
+   "corps",
+   "h4",
+   "Trusted brand collaborations"
+  ],
+  [
+   "corps",
+   "p",
+   "Shaping industry conversations through innovation, creativity, and lasting influence."
+  ],
+  [
+   "corps",
+   "h4",
+   "Branding"
+  ],
+  [
+   "corps",
+   "h4",
+   "Web development"
+  ],
+  [
+   "corps",
+   "h4",
+   "Agency"
+  ],
+  [
+   "corps",
+   "h4",
+   "Content creation"
+  ],
+  [
+   "corps",
+   "h4",
+   "SaaS"
+  ],
+  [
+   "corps",
+   "h4",
+   "Motion & 3d modeling"
+  ],
+  [
+   "corps",
+   "h4",
+   "Photography"
+  ],
+  [
+   "corps",
+   "h4",
+   "Branding"
+  ],
+  [
+   "corps",
+   "h4",
+   "Web development"
+  ],
+  [
+   "corps",
+   "h4",
+   "Agency"
+  ],
+  [
+   "corps",
+   "h4",
+   "Content creation"
+  ],
+  [
+   "corps",
+   "h4",
+   "SaaS"
+  ],
+  [
+   "corps",
+   "h4",
+   "Motion & 3d modeling"
+  ],
+  [
+   "corps",
+   "h4",
+   "Photography"
+  ],
+  [
+   "corps",
+   "h4",
+   "Branding"
+  ],
+  [
+   "corps",
+   "h4",
+   "Web development"
+  ],
+  [
+   "corps",
+   "h4",
+   "Agency"
+  ],
+  [
+   "corps",
+   "h4",
+   "Content creation"
+  ],
+  [
+   "corps",
+   "h4",
+   "SaaS"
+  ],
+  [
+   "corps",
+   "h4",
+   "Motion & 3d modeling"
+  ],
+  [
+   "corps",
+   "h4",
+   "Photography"
+  ],
+  [
+   "corps",
+   "h4",
+   "Branding"
+  ],
+  [
+   "corps",
+   "h4",
+   "Web development"
+  ],
+  [
+   "corps",
+   "h4",
+   "Agency"
+  ],
+  [
+   "corps",
+   "h4",
+   "Content creation"
+  ],
+  [
+   "corps",
+   "h4",
+   "SaaS"
+  ],
+  [
+   "corps",
+   "h4",
+   "Motion & 3d modeling"
+  ],
+  [
+   "corps",
+   "h4",
+   "Photography"
+  ],
+  [
+   "corps",
+   "h4",
+   "Branding"
+  ],
+  [
+   "corps",
+   "h4",
+   "Web development"
+  ],
+  [
+   "corps",
+   "h4",
+   "Agency"
+  ],
+  [
+   "corps",
+   "h4",
+   "Content creation"
+  ],
+  [
+   "corps",
+   "h4",
+   "SaaS"
+  ],
+  [
+   "corps",
+   "h4",
+   "Motion & 3d modeling"
+  ],
+  [
+   "corps",
+   "h4",
+   "Photography"
+  ],
+  [
+   "corps",
+   "h4",
+   "Branding"
+  ],
+  [
+   "corps",
+   "h4",
+   "Web development"
+  ],
+  [
+   "corps",
+   "h4",
+   "Agency"
+  ],
+  [
+   "corps",
+   "h4",
+   "Content creation"
+  ],
+  [
+   "corps",
+   "h4",
+   "SaaS"
+  ],
+  [
+   "corps",
+   "h4",
+   "Motion & 3d modeling"
+  ],
+  [
+   "corps",
+   "h4",
+   "Photography"
+  ],
+  [
+   "corps",
+   "h4",
+   "Branding"
+  ],
+  [
+   "corps",
+   "h4",
+   "Web development"
+  ],
+  [
+   "corps",
+   "h4",
+   "Agency"
+  ],
+  [
+   "corps",
+   "h4",
+   "Content creation"
+  ],
+  [
+   "corps",
+   "h4",
+   "SaaS"
+  ],
+  [
+   "corps",
+   "h4",
+   "Motion & 3d modeling"
+  ],
+  [
+   "corps",
+   "h4",
+   "Photography"
+  ],
+  [
+   "corps",
+   "h4",
+   "Branding"
+  ],
+  [
+   "corps",
+   "h4",
+   "Web development"
+  ],
+  [
+   "corps",
+   "h4",
+   "Agency"
+  ],
+  [
+   "corps",
+   "h4",
+   "Content creation"
+  ],
+  [
+   "corps",
+   "h4",
+   "SaaS"
+  ],
+  [
+   "corps",
+   "h4",
+   "Motion & 3d modeling"
+  ],
+  [
+   "corps",
+   "h4",
+   "Photography"
+  ],
+  [
+   "corps",
+   "span",
+   "06"
+  ],
+  [
+   "corps",
+   "span",
+   "The team"
+  ],
+  [
+   "corps",
+   "h2",
+   "Meet our team"
+  ],
+  [
+   "corps",
+   "p",
+   "Our team is committed to redefining digital experiences through innovative web solutions while fostering a diverse and collaborative environment."
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "team-img"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "twitter"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "be"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "linkedin"
+  ],
+  [
+   "corps",
+   "h4",
+   "Martha Finley"
+  ],
+  [
+   "corps",
+   "p",
+   "Creative Director"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "team-img"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "twitter"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "be"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "linkedin"
+  ],
+  [
+   "corps",
+   "h4",
+   "Floyd Miles"
+  ],
+  [
+   "corps",
+   "p",
+   "Marketing Strategist"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "team-img"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "twitter"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "be"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "linkedin"
+  ],
+  [
+   "corps",
+   "h4",
+   "Glenna Snyder"
+  ],
+  [
+   "corps",
+   "p",
+   "Lead Designer"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "team-img"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "twitter"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "be"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "linkedin"
+  ],
+  [
+   "corps",
+   "h4",
+   "Albert Flores"
+  ],
+  [
+   "corps",
+   "p",
+   "UX/UI Developer"
+  ],
+  [
+   "pied de page",
+   "h2",
+   "Build something together?"
+  ],
+  [
+   "pied de page",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "pied de page",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Home"
+  ],
+  [
+   "pied de page",
+   "a",
+   "About"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Services"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Work"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Terms"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Privacy Policy"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Error 404"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Facebook"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Instagram"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Twitter"
+  ],
+  [
+   "pied de page",
+   "p",
+   "© Studiova copyright 2025"
+  ],
+  [
+   "corps",
+   "a",
+   "Get This Template"
+  ]
+ ],
+ "blog-detail.html": [
+  [
+   "head",
+   "title",
+   "Studiova"
+  ],
+  [
+   "en-tête",
+   "p",
+   "Menu"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Home"
+  ],
+  [
+   "en-tête",
+   "a",
+   "About"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Projects"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Blog"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Services"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Contact"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Docs"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Sign In"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Sign Up"
+  ],
+  [
+   "en-tête",
+   "a",
+   "+1-212-456-7890"
+  ],
+  [
+   "en-tête",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "corps",
+   "p",
+   "In a"
+  ],
+  [
+   "corps",
+   "span",
+   "world where standing"
+  ],
+  [
+   "corps",
+   "p",
+   "still means falling behind, we knew it was time for a bold transformation.."
+  ],
+  [
+   "corps",
+   "h1",
+   "A campaign that connects"
+  ],
+  [
+   "corps",
+   "h2",
+   "Scroll to read"
+  ],
+  [
+   "corps",
+   "p",
+   "At Studiova, we're always evolving, and our latest brand redesign is a bold step forward. This transformation reflects our commitment to innovation and growth, both in how we look and how we connect with you."
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "blog-detail"
+  ],
+  [
+   "corps",
+   "p",
+   "Blogger outreach campaigns are strategic efforts by businesses to collaborate with influential bloggers, aiming to promote products, services, or content to a broader audience. This form of influencer marketing leverages the blogger's established credibility and reach within a specific niche."
+  ],
+  [
+   "corps",
+   "p",
+   "Key Steps to Launch a Successful Blogger Outreach Campaign:"
+  ],
+  [
+   "corps",
+   "h4",
+   "1. Define Your Goals:"
+  ],
+  [
+   "corps",
+   "p",
+   "Clearly outline what you aim to achieve, such as increasing brand awareness, driving website traffic, or boosting product sales."
+  ],
+  [
+   "corps",
+   "h4",
+   "2. Identify Relevant Bloggers:"
+  ],
+  [
+   "corps",
+   "p",
+   "Research and compile a list of bloggers whose audience aligns with your target demographic. Utilize tools like BuzzSumo to discover key influencers in your industry."
+  ],
+  [
+   "corps",
+   "h4",
+   "Engage Authentically:"
+  ],
+  [
+   "corps",
+   "p",
+   "Prior to outreach, engage with the bloggers' content by commenting on posts or sharing their articles. This establishes a genuine connection and familiarity."
+  ],
+  [
+   "corps",
+   "p",
+   "Craft Personalized Outreach Messages: Develop tailored emails that acknowledge the blogger's work and propose a mutually beneficial collaboration. Avoid generic templates to increase response rates."
+  ],
+  [
+   "pied de page",
+   "h2",
+   "Build something together?"
+  ],
+  [
+   "pied de page",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "pied de page",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Home"
+  ],
+  [
+   "pied de page",
+   "a",
+   "About"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Services"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Work"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Terms"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Privacy Policy"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Error 404"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Facebook"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Instagram"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Twitter"
+  ],
+  [
+   "pied de page",
+   "p",
+   "© Studiova copyright 2025"
+  ],
+  [
+   "corps",
+   "a",
+   "Get This Template"
+  ]
+ ],
+ "blog.html": [
+  [
+   "head",
+   "title",
+   "Studiova"
+  ],
+  [
+   "en-tête",
+   "p",
+   "Menu"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Home"
+  ],
+  [
+   "en-tête",
+   "a",
+   "About"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Projects"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Blog"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Services"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Contact"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Docs"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Sign In"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Sign Up"
+  ],
+  [
+   "en-tête",
+   "a",
+   "+1-212-456-7890"
+  ],
+  [
+   "en-tête",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "corps",
+   "p",
+   "Excited to"
+  ],
+  [
+   "corps",
+   "span",
+   "begin something amazing?"
+  ],
+  [
+   "corps",
+   "p",
+   "Get in touch—we'd love to connect with you!"
+  ],
+  [
+   "corps",
+   "h1",
+   "Blog"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "resources"
+  ],
+  [
+   "corps",
+   "p",
+   "Dec 24, 2025"
+  ],
+  [
+   "corps",
+   "h4",
+   "A campaign that connects"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "resources"
+  ],
+  [
+   "corps",
+   "p",
+   "Dec 24, 2025"
+  ],
+  [
+   "corps",
+   "h4",
+   "An breaking boundaries our latest brand redesign"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "resources"
+  ],
+  [
+   "corps",
+   "p",
+   "Dec 24, 2025"
+  ],
+  [
+   "corps",
+   "h4",
+   "Recognized for design"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "resources"
+  ],
+  [
+   "corps",
+   "p",
+   "Dec 24, 2025"
+  ],
+  [
+   "corps",
+   "h4",
+   "The Modern Lens Perspectives on Culture & Trends"
+  ],
+  [
+   "pied de page",
+   "h2",
+   "Build something together?"
+  ],
+  [
+   "pied de page",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "pied de page",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Home"
+  ],
+  [
+   "pied de page",
+   "a",
+   "About"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Services"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Work"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Terms"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Privacy Policy"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Error 404"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Facebook"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Instagram"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Twitter"
+  ],
+  [
+   "pied de page",
+   "p",
+   "© Studiova copyright 2025"
+  ],
+  [
+   "corps",
+   "a",
+   "Get This Template"
+  ]
+ ],
+ "contact.html": [
+  [
+   "head",
+   "title",
+   "Studiova"
+  ],
+  [
+   "en-tête",
+   "p",
+   "Menu"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Home"
+  ],
+  [
+   "en-tête",
+   "a",
+   "About"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Projects"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Blog"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Services"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Contact"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Docs"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Sign In"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Sign Up"
+  ],
+  [
+   "en-tête",
+   "a",
+   "+1-212-456-7890"
+  ],
+  [
+   "en-tête",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "corps",
+   "p",
+   "Ready to"
+  ],
+  [
+   "corps",
+   "span",
+   "start something"
+  ],
+  [
+   "corps",
+   "p",
+   "great? Reach out we’d love to hear from you."
+  ],
+  [
+   "corps",
+   "h1",
+   "Contact"
+  ],
+  [
+   "corps",
+   "span",
+   "01"
+  ],
+  [
+   "corps",
+   "span",
+   "Contact us"
+  ],
+  [
+   "corps",
+   "h2",
+   "Get in touch"
+  ],
+  [
+   "corps",
+   "p",
+   "Let’s collaborate and create something amazing! Tell me about your project—I’m all ears."
+  ],
+  [
+   "corps",
+   "input[placeholder]",
+   "Name"
+  ],
+  [
+   "corps",
+   "input[placeholder]",
+   "Email"
+  ],
+  [
+   "corps",
+   "textarea[placeholder]",
+   "Tell us about your project"
+  ],
+  [
+   "corps",
+   "span",
+   "Submit message"
+  ],
+  [
+   "pied de page",
+   "h2",
+   "Build something together?"
+  ],
+  [
+   "pied de page",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "pied de page",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Home"
+  ],
+  [
+   "pied de page",
+   "a",
+   "About"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Services"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Work"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Terms"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Privacy Policy"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Error 404"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Facebook"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Instagram"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Twitter"
+  ],
+  [
+   "pied de page",
+   "p",
+   "© Studiova copyright 2025"
+  ],
+  [
+   "corps",
+   "a",
+   "Get This Template"
+  ]
+ ],
+ "index.html": [
+  [
+   "head",
+   "title",
+   "Studiova"
+  ],
+  [
+   "en-tête",
+   "p",
+   "Menu"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Home"
+  ],
+  [
+   "en-tête",
+   "a",
+   "About"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Projects"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Blog"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Services"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Contact"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Docs"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Sign In"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Sign Up"
+  ],
+  [
+   "en-tête",
+   "a",
+   "+1-212-456-7890"
+  ],
+  [
+   "en-tête",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "corps",
+   "p",
+   "We create"
+  ],
+  [
+   "corps",
+   "span",
+   "high-performing"
+  ],
+  [
+   "corps",
+   "p",
+   "digital designs that elevate brands and enhance conversions."
+  ],
+  [
+   "corps",
+   "h1",
+   "Studiova"
+  ],
+  [
+   "corps",
+   "span",
+   "01"
+  ],
+  [
+   "corps",
+   "span",
+   "Stats & facts"
+  ],
+  [
+   "corps",
+   "h2",
+   "High quality web design solutions you can trust."
+  ],
+  [
+   "corps",
+   "p",
+   "When selecting a web design agency, it's essential to consider its reputation, experience, and the specific needs of your project."
+  ],
+  [
+   "corps",
+   "span",
+   "40"
+  ],
+  [
+   "corps",
+   "h2",
+   "K+"
+  ],
+  [
+   "corps",
+   "p",
+   "People who have launched their websites"
+  ],
+  [
+   "corps",
+   "span",
+   "238"
+  ],
+  [
+   "corps",
+   "h2",
+   "+"
+  ],
+  [
+   "corps",
+   "p",
+   "Experienced professionals ready to assist"
+  ],
+  [
+   "corps",
+   "span",
+   "3"
+  ],
+  [
+   "corps",
+   "h2",
+   "M+"
+  ],
+  [
+   "corps",
+   "p",
+   "Support through messages and live consultations"
+  ],
+  [
+   "corps",
+   "span",
+   "Who we are"
+  ],
+  [
+   "corps",
+   "span",
+   "02"
+  ],
+  [
+   "corps",
+   "span",
+   "Portfolio"
+  ],
+  [
+   "corps",
+   "h2",
+   "Featured projects"
+  ],
+  [
+   "corps",
+   "p",
+   "A glimpse into our creativity—exploring innovative designs, successful collaborations, and transformative digital experiences."
+  ],
+  [
+   "corps",
+   "h3",
+   "Snapclear"
+  ],
+  [
+   "corps",
+   "span",
+   "UX Strategy"
+  ],
+  [
+   "corps",
+   "span",
+   "UI Design"
+  ],
+  [
+   "corps",
+   "h3",
+   "Amber Bottle"
+  ],
+  [
+   "corps",
+   "span",
+   "Web development"
+  ],
+  [
+   "corps",
+   "span",
+   "Digital design"
+  ],
+  [
+   "corps",
+   "h3",
+   "Pixelforge"
+  ],
+  [
+   "corps",
+   "span",
+   "UI/UX design"
+  ],
+  [
+   "corps",
+   "span",
+   "Web development"
+  ],
+  [
+   "corps",
+   "h3",
+   "BioTrack LIMS"
+  ],
+  [
+   "corps",
+   "span",
+   "Brand identity"
+  ],
+  [
+   "corps",
+   "span",
+   "Digital design"
+  ],
+  [
+   "corps",
+   "h3",
+   "Amber Bottle"
+  ],
+  [
+   "corps",
+   "span",
+   "Photography"
+  ],
+  [
+   "corps",
+   "span",
+   "Studio"
+  ],
+  [
+   "corps",
+   "h3",
+   "Digital Magazine"
+  ],
+  [
+   "corps",
+   "span",
+   "Digital design"
+  ],
+  [
+   "corps",
+   "span",
+   "Web development"
+  ],
+  [
+   "corps",
+   "span",
+   "03"
+  ],
+  [
+   "corps",
+   "span",
+   "Services"
+  ],
+  [
+   "corps",
+   "h2",
+   "What we do"
+  ],
+  [
+   "corps",
+   "p",
+   "A glimpse into our creativity—exploring innovative designs, successful collaborations, and transformative digital experiences."
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "services"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "services"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "services"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "services"
+  ],
+  [
+   "corps",
+   "button",
+   "Brand identity"
+  ],
+  [
+   "corps",
+   "p",
+   "When selecting a web design agency, it's essential to consider its reputation, experience, and the specific needs of your project."
+  ],
+  [
+   "corps",
+   "button",
+   "Web development"
+  ],
+  [
+   "corps",
+   "p",
+   "When selecting a web design agency, it's essential to consider its reputation, experience, and the specific needs of your project."
+  ],
+  [
+   "corps",
+   "button",
+   "Content creation"
+  ],
+  [
+   "corps",
+   "p",
+   "When selecting a web design agency, it's essential to consider its reputation, experience, and the specific needs of your project."
+  ],
+  [
+   "corps",
+   "button",
+   "Motion & 3d modeling"
+  ],
+  [
+   "corps",
+   "p",
+   "When selecting a web design agency, it's essential to consider its reputation, experience, and the specific needs of your project."
+  ],
+  [
+   "corps",
+   "span",
+   "See our Work"
+  ],
+  [
+   "corps",
+   "span",
+   "04"
+  ],
+  [
+   "corps",
+   "span",
+   "About us"
+  ],
+  [
+   "corps",
+   "h2",
+   "Why choose us"
+  ],
+  [
+   "corps",
+   "p",
+   "We blend creativity with strategy to craft unique digital experiences that make an impact. With a focus on innovation, attention to details."
+  ],
+  [
+   "corps",
+   "p",
+   "The team exceeded our expectations with a stunning brand identity."
+  ],
+  [
+   "corps",
+   "h2",
+   "98.6%"
+  ],
+  [
+   "corps",
+   "p",
+   "Customer satisfaction"
+  ],
+  [
+   "corps",
+   "h5",
+   "Wade Warren"
+  ],
+  [
+   "corps",
+   "p",
+   "Bank of America"
+  ],
+  [
+   "corps",
+   "h2",
+   "500+"
+  ],
+  [
+   "corps",
+   "p",
+   "Successful projects completed"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "user-1"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "user-2"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "user-3"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "user-4"
+  ],
+  [
+   "corps",
+   "h2",
+   "238+"
+  ],
+  [
+   "corps",
+   "p",
+   "Brands served worldwide"
+  ],
+  [
+   "corps",
+   "p",
+   "Our global reach allows us to create unique, culturally relevant designs for businesses across different industries."
+  ],
+  [
+   "corps",
+   "span",
+   "05"
+  ],
+  [
+   "corps",
+   "span",
+   "Testimonial"
+  ],
+  [
+   "corps",
+   "h2",
+   "Stories from clients"
+  ],
+  [
+   "corps",
+   "p",
+   "Real experiences, genuine feedback—discover how our creative solutions have transformed brands and elevated businesses."
+  ],
+  [
+   "corps",
+   "p",
+   "Hear from them"
+  ],
+  [
+   "corps",
+   "h4",
+   "Our website redesign was flawless. They understood our vision perfectly!"
+  ],
+  [
+   "corps",
+   "h5",
+   "Albert Flores"
+  ],
+  [
+   "corps",
+   "p",
+   "MasterCard"
+  ],
+  [
+   "corps",
+   "p",
+   "Hear from them"
+  ],
+  [
+   "corps",
+   "h4",
+   "From concept to execution, they delivered outstanding results. Highly recommend their expertise!"
+  ],
+  [
+   "corps",
+   "h6",
+   "4.0"
+  ],
+  [
+   "corps",
+   "h5",
+   "Robert Fox"
+  ],
+  [
+   "corps",
+   "p",
+   "Mitsubishi"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "quete"
+  ],
+  [
+   "corps",
+   "p",
+   "Hear from them"
+  ],
+  [
+   "corps",
+   "h4",
+   "Super smooth process with incredible results. highly recommend!"
+  ],
+  [
+   "corps",
+   "h5",
+   "Jenny Wilson"
+  ],
+  [
+   "corps",
+   "p",
+   "Pizza Hut"
+  ],
+  [
+   "corps",
+   "span",
+   "06"
+  ],
+  [
+   "corps",
+   "span",
+   "The team"
+  ],
+  [
+   "corps",
+   "h2",
+   "Meet our team"
+  ],
+  [
+   "corps",
+   "p",
+   "Our team is committed to redefining digital experiences through innovative web solutions while fostering a diverse and collaborative environment."
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "team-img"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "twitter"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "be"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "linkedin"
+  ],
+  [
+   "corps",
+   "h4",
+   "Martha Finley"
+  ],
+  [
+   "corps",
+   "p",
+   "Creative Director"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "team-img"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "twitter"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "be"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "linkedin"
+  ],
+  [
+   "corps",
+   "h4",
+   "Floyd Miles"
+  ],
+  [
+   "corps",
+   "p",
+   "Marketing Strategist"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "team-img"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "twitter"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "be"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "linkedin"
+  ],
+  [
+   "corps",
+   "h4",
+   "Glenna Snyder"
+  ],
+  [
+   "corps",
+   "p",
+   "Lead Designer"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "team-img"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "twitter"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "be"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "linkedin"
+  ],
+  [
+   "corps",
+   "h4",
+   "Albert Flores"
+  ],
+  [
+   "corps",
+   "p",
+   "UX/UI Developer"
+  ],
+  [
+   "corps",
+   "span",
+   "07"
+  ],
+  [
+   "corps",
+   "span",
+   "Pricing"
+  ],
+  [
+   "corps",
+   "h2",
+   "Affordable pricing"
+  ],
+  [
+   "corps",
+   "p",
+   "A glimpse into our creativity—exploring innovative designs, successful collaborations, and transformative digital experiences."
+  ],
+  [
+   "corps",
+   "h5",
+   "Launch"
+  ],
+  [
+   "corps",
+   "h3",
+   "$699"
+  ],
+  [
+   "corps",
+   "p",
+   "/month"
+  ],
+  [
+   "corps",
+   "p",
+   "Ideal for startups and small businesses taking their first steps online."
+  ],
+  [
+   "corps",
+   "h6",
+   "What’s Included:"
+  ],
+  [
+   "corps",
+   "h6",
+   "Competitive research & insights"
+  ],
+  [
+   "corps",
+   "h6",
+   "Wireframing and prototyping"
+  ],
+  [
+   "corps",
+   "h6",
+   "Basic tracking setup (Google Analytics, etc.)"
+  ],
+  [
+   "corps",
+   "h6",
+   "Standard contact form integration"
+  ],
+  [
+   "corps",
+   "span",
+   "Subscribe now"
+  ],
+  [
+   "corps",
+   "h5",
+   "Scale"
+  ],
+  [
+   "corps",
+   "span",
+   "Most popular"
+  ],
+  [
+   "corps",
+   "h3",
+   "$2,199"
+  ],
+  [
+   "corps",
+   "h3",
+   "$1,699"
+  ],
+  [
+   "corps",
+   "p",
+   "/month"
+  ],
+  [
+   "corps",
+   "p",
+   "Perfect for growing brands needing more customization and flexibility."
+  ],
+  [
+   "corps",
+   "h6",
+   "What’s Included:"
+  ],
+  [
+   "corps",
+   "h6",
+   "Everything in the Launch Plan"
+  ],
+  [
+   "corps",
+   "h6",
+   "Custom design for up to 10 pages"
+  ],
+  [
+   "corps",
+   "h6",
+   "Seamless social media integration"
+  ],
+  [
+   "corps",
+   "h6",
+   "SEO enhancements for key pages"
+  ],
+  [
+   "corps",
+   "span",
+   "Subscribe now"
+  ],
+  [
+   "corps",
+   "h5",
+   "Elevate"
+  ],
+  [
+   "corps",
+   "h3",
+   "$3,499"
+  ],
+  [
+   "corps",
+   "p",
+   "/month"
+  ],
+  [
+   "corps",
+   "p",
+   "Best suited for established businesses wanting a fully tailored experience."
+  ],
+  [
+   "corps",
+   "h6",
+   "What’s Included:"
+  ],
+  [
+   "corps",
+   "h6",
+   "Everything in the Scale Plan"
+  ],
+  [
+   "corps",
+   "h6",
+   "E-commerce functionality (if needed)"
+  ],
+  [
+   "corps",
+   "h6",
+   "Branded email template design"
+  ],
+  [
+   "corps",
+   "h6",
+   "Priority support for six months after launch"
+  ],
+  [
+   "corps",
+   "span",
+   "Subscribe now"
+  ],
+  [
+   "corps",
+   "p",
+   "More than 320 trusted partners & clients"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "partners"
+  ],
+  [
+   "corps",
+   "span",
+   "08"
+  ],
+  [
+   "corps",
+   "span",
+   "FAQs"
+  ],
+  [
+   "corps",
+   "h2",
+   "Frequently asked questions"
+  ],
+  [
+   "corps",
+   "p",
+   "Discover how we tailor our solutions to meet unique needs, delivering impactful strategies, personalized branding, and exceptional customer experiences."
+  ],
+  [
+   "corps",
+   "button",
+   "What services does your agency offer?"
+  ],
+  [
+   "corps",
+   "div",
+   "Yes, we provide post-launch support to ensure smooth implementation and offer ongoing maintenance packages for clients needing regular updates or technical assistance."
+  ],
+  [
+   "corps",
+   "button",
+   "How long does a typical project take?"
+  ],
+  [
+   "corps",
+   "div",
+   "Yes, we provide post-launch support to ensure smooth implementation and offer ongoing maintenance packages for clients needing regular updates or technical assistance."
+  ],
+  [
+   "corps",
+   "button",
+   "Do you offer custom designs, or do you use templates?"
+  ],
+  [
+   "corps",
+   "div",
+   "Yes, we provide post-launch support to ensure smooth implementation and offer ongoing maintenance packages for clients needing regular updates or technical assistance."
+  ],
+  [
+   "corps",
+   "button",
+   "What’s the cost of a project?"
+  ],
+  [
+   "corps",
+   "div",
+   "Yes, we provide post-launch support to ensure smooth implementation and offer ongoing maintenance packages for clients needing regular updates or technical assistance."
+  ],
+  [
+   "corps",
+   "button",
+   "Do you provide ongoing support after project completion?"
+  ],
+  [
+   "corps",
+   "div",
+   "Yes, we provide post-launch support to ensure smooth implementation and offer ongoing maintenance packages for clients needing regular updates or technical assistance."
+  ],
+  [
+   "corps",
+   "span",
+   "09"
+  ],
+  [
+   "corps",
+   "span",
+   "Resources"
+  ],
+  [
+   "corps",
+   "h2",
+   "Recent news"
+  ],
+  [
+   "corps",
+   "p",
+   "Explore the latest trends, bold projects, and creative insights from our agency—shaping the future of branding, digital experiences, and storytelling."
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "resources"
+  ],
+  [
+   "corps",
+   "p",
+   "Dec 24, 2025"
+  ],
+  [
+   "corps",
+   "h4",
+   "A campaign that connects"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "resources"
+  ],
+  [
+   "corps",
+   "p",
+   "Dec 24, 2025"
+  ],
+  [
+   "corps",
+   "h4",
+   "An breaking boundaries our latest brand redesign"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "resources"
+  ],
+  [
+   "corps",
+   "p",
+   "Dec 24, 2025"
+  ],
+  [
+   "corps",
+   "h4",
+   "Recognized for design"
+  ],
+  [
+   "corps",
+   "span",
+   "10"
+  ],
+  [
+   "corps",
+   "span",
+   "Contact us"
+  ],
+  [
+   "corps",
+   "h2",
+   "Get in touch"
+  ],
+  [
+   "corps",
+   "p",
+   "Let’s collaborate and create something amazing! Tell me about your project—I’m all ears."
+  ],
+  [
+   "corps",
+   "input[placeholder]",
+   "Name"
+  ],
+  [
+   "corps",
+   "input[placeholder]",
+   "Email"
+  ],
+  [
+   "corps",
+   "textarea[placeholder]",
+   "Tell us about your project"
+  ],
+  [
+   "corps",
+   "span",
+   "Submit message"
+  ],
+  [
+   "pied de page",
+   "h2",
+   "Build something together?"
+  ],
+  [
+   "pied de page",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "pied de page",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Home"
+  ],
+  [
+   "pied de page",
+   "a",
+   "About"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Services"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Work"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Terms"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Privacy Policy"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Error 404"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Facebook"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Instagram"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Twitter"
+  ],
+  [
+   "pied de page",
+   "p",
+   "© Studiova copyright 2025"
+  ],
+  [
+   "corps",
+   "a",
+   "Get This Template"
+  ]
+ ],
+ "privacy-policy.html": [
+  [
+   "head",
+   "title",
+   "Studiova"
+  ],
+  [
+   "en-tête",
+   "p",
+   "Menu"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Home"
+  ],
+  [
+   "en-tête",
+   "a",
+   "About"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Projects"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Blog"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Services"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Contact"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Docs"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Sign In"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Sign Up"
+  ],
+  [
+   "en-tête",
+   "a",
+   "+1-212-456-7890"
+  ],
+  [
+   "en-tête",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "corps",
+   "p",
+   "Understand the"
+  ],
+  [
+   "corps",
+   "span",
+   "Rules & Guidelines"
+  ],
+  [
+   "corps",
+   "p",
+   "Before Using Our Services"
+  ],
+  [
+   "corps",
+   "h1",
+   "Privacy Policy"
+  ],
+  [
+   "corps",
+   "p",
+   "This Privacy Statement explains how personal information about our (potential) customers and other individuals using our services is collected, used, and disclosed by **Bootstrap Admin Templates** (\"us\", \"we\", \"our\"). This Privacy Statement describes our privacy practices in relation to the use of our websites, including any customer portals or interactive websites"
+  ],
+  [
+   "corps",
+   "a",
+   "(https://bootstrap-admintemplates.com/)"
+  ],
+  [
+   "corps",
+   "p",
+   ", our software (Bootstrap), services, solutions, tools, and related applications, services, and programs, including research and marketing activities, offered by us (the \"Services\")."
+  ],
+  [
+   "corps",
+   "p",
+   "By signing up for our Services and agreeing to our General Terms and Conditions, you consent to the collection, usage, storage, and disclosure of your information as described in this Privacy Statement."
+  ],
+  [
+   "corps",
+   "p",
+   "Our Services may contain links to external websites or services. The privacy practices and content of such sites or services will be governed by their respective privacy policies. We may update this Privacy Statement periodically. If changes occur, we will notify you by updating the date at the top of the statement and providing additional notifications (such as a statement on our homepage or an email notification). We encourage you to review this Privacy Statement whenever you use our Services to stay informed about how we handle your information."
+  ],
+  [
+   "corps",
+   "h4",
+   "Personal Information Collection"
+  ],
+  [
+   "corps",
+   "p",
+   "While using our Services, we may ask you to provide certain personally identifiable information that can be used to contact or identify you. This may include basic user details (such as your name, email address, telephone number, and profile picture), company information, and any other data you choose to share with us. We do not collect financial information (such as credit card details or security codes). All payments are handled through a third-party provider. If applicable, please refer to their Privacy Policy:"
+  ],
+  [
+   "corps",
+   "a",
+   "https://bootstrap-admintemplates.com/"
+  ],
+  [
+   "corps",
+   "p",
+   "."
+  ],
+  [
+   "corps",
+   "h4",
+   "Personal Information You Provide to Us"
+  ],
+  [
+   "corps",
+   "p",
+   "When using our Services, you may provide personally identifiable information, such as when creating an account, requesting customer support, or interacting with our platform."
+  ],
+  [
+   "corps",
+   "p",
+   "As noted, we do not collect financial details directly. Payments are processed via third-party providers. Please review their privacy policy for details:"
+  ],
+  [
+   "corps",
+   "a",
+   "https://bootstrap-admintemplates.com/"
+  ],
+  [
+   "corps",
+   "p",
+   "."
+  ],
+  [
+   "pied de page",
+   "h2",
+   "Build something together?"
+  ],
+  [
+   "pied de page",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "pied de page",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Home"
+  ],
+  [
+   "pied de page",
+   "a",
+   "About"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Services"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Work"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Terms"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Privacy Policy"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Error 404"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Facebook"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Instagram"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Twitter"
+  ],
+  [
+   "pied de page",
+   "p",
+   "© Studiova copyright 2025"
+  ],
+  [
+   "corps",
+   "a",
+   "Get This Template"
+  ]
+ ],
+ "projects-detail.html": [
+  [
+   "head",
+   "title",
+   "Studiova"
+  ],
+  [
+   "en-tête",
+   "p",
+   "Menu"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Home"
+  ],
+  [
+   "en-tête",
+   "a",
+   "About"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Projects"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Blog"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Services"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Contact"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Docs"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Sign In"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Sign Up"
+  ],
+  [
+   "en-tête",
+   "a",
+   "+1-212-456-7890"
+  ],
+  [
+   "en-tête",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "corps",
+   "p",
+   "A"
+  ],
+  [
+   "corps",
+   "span",
+   "showcase of creativity"
+  ],
+  [
+   "corps",
+   "p",
+   ", strategy, and results explore the projects that define us."
+  ],
+  [
+   "corps",
+   "h1",
+   "BioTrack LIMS"
+  ],
+  [
+   "corps",
+   "span",
+   "Back"
+  ],
+  [
+   "corps",
+   "p",
+   "Scope of work"
+  ],
+  [
+   "corps",
+   "p",
+   "Brand identity, Digital design"
+  ],
+  [
+   "corps",
+   "p",
+   "Industry"
+  ],
+  [
+   "corps",
+   "p",
+   "Bags"
+  ],
+  [
+   "corps",
+   "p",
+   "Raised"
+  ],
+  [
+   "corps",
+   "p",
+   "$1.1M"
+  ],
+  [
+   "corps",
+   "p",
+   "Website"
+  ],
+  [
+   "corps",
+   "p",
+   "www.studiova.com"
+  ],
+  [
+   "corps",
+   "h2",
+   "Description"
+  ],
+  [
+   "corps",
+   "p",
+   "exploring the world of handbags reveals a diverse array of blogs catering to various styles, trends, and fashion insights. Here are some notable handbag blogs you might find engaging:"
+  ],
+  [
+   "corps",
+   "h4",
+   "1. PurseBlog"
+  ],
+  [
+   "corps",
+   "p",
+   "PurseBlog offers daily editorial content focusing on designer handbag news, reviews, and features. They cover the latest collections from both luxury and contemporary designers, providing readers with in-depth analyses and insights into the handbag industry."
+  ],
+  [
+   "corps",
+   "h4",
+   "2. The MyBag Blog"
+  ],
+  [
+   "corps",
+   "p",
+   "The MyBag Blog is a hub for designer handbag inspiration, trends, and style guides. Packed with the latest trends, blogger styles, and, of course, handbags, it serves as a valuable resource for fashion enthusiasts seeking to stay updated on current styles."
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "services"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "services"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "services"
+  ],
+  [
+   "pied de page",
+   "h2",
+   "Build something together?"
+  ],
+  [
+   "pied de page",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "pied de page",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Home"
+  ],
+  [
+   "pied de page",
+   "a",
+   "About"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Services"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Work"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Terms"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Privacy Policy"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Error 404"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Facebook"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Instagram"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Twitter"
+  ],
+  [
+   "pied de page",
+   "p",
+   "© Studiova copyright 2025"
+  ],
+  [
+   "corps",
+   "a",
+   "Get This Template"
+  ]
+ ],
+ "projects.html": [
+  [
+   "head",
+   "title",
+   "Studiova"
+  ],
+  [
+   "en-tête",
+   "p",
+   "Menu"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Home"
+  ],
+  [
+   "en-tête",
+   "a",
+   "About"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Projects"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Blog"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Services"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Contact"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Docs"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Sign In"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Sign Up"
+  ],
+  [
+   "en-tête",
+   "a",
+   "+1-212-456-7890"
+  ],
+  [
+   "en-tête",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "corps",
+   "p",
+   "A"
+  ],
+  [
+   "corps",
+   "span",
+   "showcase of creativity"
+  ],
+  [
+   "corps",
+   "p",
+   ", strategy, and results explore the projects that define us."
+  ],
+  [
+   "corps",
+   "h1",
+   "Projects"
+  ],
+  [
+   "corps",
+   "h3",
+   "Amber Bottle"
+  ],
+  [
+   "corps",
+   "span",
+   "Photography"
+  ],
+  [
+   "corps",
+   "span",
+   "Studio"
+  ],
+  [
+   "corps",
+   "h3",
+   "BioTrack LIMS"
+  ],
+  [
+   "corps",
+   "span",
+   "Brand identity"
+  ],
+  [
+   "corps",
+   "span",
+   "Digital design"
+  ],
+  [
+   "corps",
+   "h3",
+   "Digital Magazine"
+  ],
+  [
+   "corps",
+   "span",
+   "Digital design"
+  ],
+  [
+   "corps",
+   "span",
+   "Web development"
+  ],
+  [
+   "corps",
+   "h3",
+   "Pixelforge"
+  ],
+  [
+   "corps",
+   "span",
+   "UI/UX design"
+  ],
+  [
+   "corps",
+   "span",
+   "Web development"
+  ],
+  [
+   "corps",
+   "h3",
+   "Snapclear"
+  ],
+  [
+   "corps",
+   "span",
+   "UX Strategy"
+  ],
+  [
+   "corps",
+   "span",
+   "UI Design"
+  ],
+  [
+   "corps",
+   "h3",
+   "Transfermax"
+  ],
+  [
+   "corps",
+   "span",
+   "Web development"
+  ],
+  [
+   "corps",
+   "span",
+   "Digital design"
+  ],
+  [
+   "pied de page",
+   "h2",
+   "Build something together?"
+  ],
+  [
+   "pied de page",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "pied de page",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Home"
+  ],
+  [
+   "pied de page",
+   "a",
+   "About"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Services"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Work"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Terms"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Privacy Policy"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Error 404"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Facebook"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Instagram"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Twitter"
+  ],
+  [
+   "pied de page",
+   "p",
+   "© Studiova copyright 2025"
+  ],
+  [
+   "corps",
+   "a",
+   "Get This Template"
+  ]
+ ],
+ "sign-in.html": [
+  [
+   "head",
+   "title",
+   "Studiova"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "logo-dark"
+  ],
+  [
+   "corps",
+   "a",
+   "Sign In"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "google"
+  ],
+  [
+   "corps",
+   "a",
+   "Sign In"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "google"
+  ],
+  [
+   "corps",
+   "p",
+   "OR"
+  ],
+  [
+   "corps",
+   "input[placeholder]",
+   "Email"
+  ],
+  [
+   "corps",
+   "input[placeholder]",
+   "Password"
+  ],
+  [
+   "corps",
+   "a",
+   "Sign In"
+  ],
+  [
+   "corps",
+   "a",
+   "Forget Password?"
+  ],
+  [
+   "corps",
+   "p",
+   "Not a member yet?"
+  ],
+  [
+   "corps",
+   "a",
+   "Sign Up"
+  ],
+  [
+   "corps",
+   "a",
+   "Get This Template"
+  ]
+ ],
+ "sign-up.html": [
+  [
+   "head",
+   "title",
+   "Studiova"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "logo-dark"
+  ],
+  [
+   "corps",
+   "a",
+   "Sign In"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "google"
+  ],
+  [
+   "corps",
+   "a",
+   "Sign In"
+  ],
+  [
+   "corps",
+   "img[alt]",
+   "google"
+  ],
+  [
+   "corps",
+   "p",
+   "OR"
+  ],
+  [
+   "corps",
+   "input[placeholder]",
+   "Name"
+  ],
+  [
+   "corps",
+   "input[placeholder]",
+   "Email"
+  ],
+  [
+   "corps",
+   "input[placeholder]",
+   "Password"
+  ],
+  [
+   "corps",
+   "a",
+   "Sign Up"
+  ],
+  [
+   "corps",
+   "p",
+   "By creating an account, you agree with our"
+  ],
+  [
+   "corps",
+   "a",
+   "Privacy"
+  ],
+  [
+   "corps",
+   "p",
+   "and"
+  ],
+  [
+   "corps",
+   "a",
+   "Policy"
+  ],
+  [
+   "corps",
+   "p",
+   "."
+  ],
+  [
+   "corps",
+   "p",
+   "Already have an account?"
+  ],
+  [
+   "corps",
+   "a",
+   "Sign In"
+  ],
+  [
+   "corps",
+   "a",
+   "Get This Template"
+  ]
+ ],
+ "terms-and-conditions.html": [
+  [
+   "head",
+   "title",
+   "Studiova"
+  ],
+  [
+   "en-tête",
+   "p",
+   "Menu"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Home"
+  ],
+  [
+   "en-tête",
+   "a",
+   "About"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Projects"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Blog"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Services"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Contact"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Docs"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Sign In"
+  ],
+  [
+   "en-tête",
+   "a",
+   "Sign Up"
+  ],
+  [
+   "en-tête",
+   "a",
+   "+1-212-456-7890"
+  ],
+  [
+   "en-tête",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "corps",
+   "p",
+   "Understand the"
+  ],
+  [
+   "corps",
+   "span",
+   "Rules & Guidelines"
+  ],
+  [
+   "corps",
+   "p",
+   "Before Using Our Services"
+  ],
+  [
+   "corps",
+   "h1",
+   "Terms & Conditions"
+  ],
+  [
+   "corps",
+   "p",
+   "This Bootstrap Admin Templates Terms of Service"
+  ],
+  [
+   "corps",
+   "span",
+   "(“Agreement”)"
+  ],
+  [
+   "corps",
+   "p",
+   "is entered into by and between Bootstrap Admin Templates"
+  ],
+  [
+   "corps",
+   "span",
+   "(“Bootstrap Admin Templates”)"
+  ],
+  [
+   "corps",
+   "p",
+   "and the entity or person placing an order for or accessing the Services"
+  ],
+  [
+   "corps",
+   "span",
+   "(“Customer”)"
+  ],
+  [
+   "corps",
+   "p",
+   ". This Agreement consists of the terms and conditions set forth below and any Order Form. The"
+  ],
+  [
+   "corps",
+   "span",
+   "“Effective Date”"
+  ],
+  [
+   "corps",
+   "p",
+   "of this Agreement is the date which is the earlier of (a) Customer’s initial access to the Services through any online provisioning, registration or order process or (b) the Effective Date of the first Order Form. This Agreement will govern Customer’s initial purchase on the Effective Date as well as any future purchases made by Customer that reference this Agreement. Bootstrap Admin Templates may modify this Agreement from time to time as permitted in Section 13.4 (Amendment)."
+  ],
+  [
+   "corps",
+   "p",
+   "Capitalized terms shall have the meanings set forth in Section 1, or in the section where they are first used"
+  ],
+  [
+   "corps",
+   "h4",
+   "1. Definitions"
+  ],
+  [
+   "corps",
+   "span",
+   "1.1 “Authorized Devices”"
+  ],
+  [
+   "corps",
+   "p",
+   "means those mobile, desktop, or other devices with which the Services can be accessed and used."
+  ],
+  [
+   "corps",
+   "span",
+   "1.2 “Content”"
+  ],
+  [
+   "corps",
+   "p",
+   "means code, content, fonts, graphics, designs, documents, or materials created using the Services by Customer and its Users or imported into the Services by Customer and its Users."
+  ],
+  [
+   "corps",
+   "span",
+   "1.3 “Documentation”"
+  ],
+  [
+   "corps",
+   "p",
+   "means the technical materials made available by Bootstrap Admin Templates to Customer and/or its Users in hard copy or electronic form describing the use and operation of the Services."
+  ],
+  [
+   "corps",
+   "span",
+   "1.4 “Services”"
+  ],
+  [
+   "corps",
+   "p",
+   "Bootstrap Admin Templates proprietary web-based products and services, along with downloadable desktop and mobile apps. Each Order Form will identify details of Customer’s Services subscription."
+  ],
+  [
+   "corps",
+   "span",
+   "1.5 “Order Form”"
+  ],
+  [
+   "corps",
+   "p",
+   "means a document signed by both Parties identifying the Enterprise Services to be made available by Bootstrap Admin Templates pursuant to this Agreement."
+  ],
+  [
+   "corps",
+   "span",
+   "1.6 “Packages”or“Components”"
+  ],
+  [
+   "corps",
+   "p",
+   "means add-on modules made available within the Services. Packages and Components may be created by Bootstrap Admin Templates, Customer or other third parties. Packages and Components created by Bootstrap Admin Templates are supported as part of the Services. Bootstrap Admin Templates will use reasonable efforts to support Customer’s use of Packages and Components created by third parties but disclaims all warranties as to such Packages and Components."
+  ],
+  [
+   "corps",
+   "span",
+   "1.7 “User”"
+  ],
+  [
+   "corps",
+   "p",
+   "means an employee, contractor or other individual associated with Customer who has been provisioned by Customer with access to the Services."
+  ],
+  [
+   "corps",
+   "span",
+   "1.8 “Services”"
+  ],
+  [
+   "corps",
+   "p",
+   "means Bootstrap Admin Templates product, web design software, tools, along with downloadable desktop and mobile apps. Each Order Form will identify details of Customer’s subscription to the Services."
+  ],
+  [
+   "corps",
+   "h4",
+   "2. License and use rights"
+  ],
+  [
+   "corps",
+   "span",
+   "2.1 Services"
+  ],
+  [
+   "corps",
+   "p",
+   "Bootstrap Admin Templates hereby grants Customer a non-exclusive, non-transferable license during the Term (as defined in Section 12) to: (a) use the Services and to download and install desktop or mobile applications as applicable on the number and type of Authorized Devices solely for Customer’s internal business purposes in accordance with the Documentation, and/or (b) use our SaaS product, hosted systems, design software, tools, and build websites under the Bootstrap Admin Templates.app domain.. The Services are delivered electronically."
+  ],
+  [
+   "corps",
+   "span",
+   "2.2 Provisioning the Services"
+  ],
+  [
+   "corps",
+   "p",
+   "Bootstrap Admin Templates will provide to Customer the necessary passwords, security protocols, policies, network links or connections (“Access Protocols”) to allow Customer and its Users to access the Services as described herein; no other access to the website or servers from which the Services are delivered is permitted. Customer will provision its Users to access and use the features and functions of the Services through the Access Protocols. Customer may select one or more Users to act as administrators and control, manage and use the Services on Customer’s behalf. Customer shall be responsible for all acts and omissions of its Users"
+  ],
+  [
+   "pied de page",
+   "h2",
+   "Build something together?"
+  ],
+  [
+   "pied de page",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "pied de page",
+   "a",
+   "info@wrappixel.com"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Home"
+  ],
+  [
+   "pied de page",
+   "a",
+   "About"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Services"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Work"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Terms"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Privacy Policy"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Error 404"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Facebook"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Instagram"
+  ],
+  [
+   "pied de page",
+   "a",
+   "Twitter"
+  ],
+  [
+   "pied de page",
+   "p",
+   "© Studiova copyright 2025"
+  ],
+  [
+   "corps",
+   "a",
+   "Get This Template"
+  ]
+ ]
+}
