@@ -16818,3 +16818,7 @@ section.py-5{padding-top:24px!important}
 
 /* Menu fixe plus fin : 12px au lieu de 20px en haut et en bas (hauteur 77px) */
 .header.fixed-header{padding:12px 0}
+
+/* Bouton flottant « Contactons-nous » : s'efface sur la section 06 */
+.get-template a{transition:opacity .3s,visibility .3s}
+.get-template a.masque{opacity:0;visibility:hidden}

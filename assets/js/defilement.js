@@ -57,13 +57,33 @@
     window.addEventListener(e, function () { stopper(); }, { passive: true });
   });
 
-  // Arrivée depuis une autre page sur index.html#section : le navigateur saute à
-  // l'ancre avant la fin du chargement (images, vidéo) et tombe à côté. On recale.
+  // Chaque chargement repart en haut de la page : le navigateur ne restaure pas
+  // la position, et l'adresse ne garde pas la section visitée (#reseau…).
+  if ("scrollRestoration" in history) history.scrollRestoration = "manual";
+  function oublierSection() {
+    if (location.hash) history.replaceState(null, "", location.pathname + location.search);
+  }
+  window.addEventListener("hashchange", oublierSection);
+
+  // Seule exception : arrivée depuis une page légale sur index.html#section.
+  // Le navigateur saute à l'ancre avant la fin du chargement (images, vidéo) et
+  // tombe à côté : on recale une fois tout chargé.
   window.addEventListener("load", function () {
     var cible = location.hash && document.getElementById(decodeURIComponent(location.hash.slice(1)));
-    if (!cible) return;
-    finAnim = Date.now(); // ne pas aimanter juste après
-    window.scrollTo({ top: cible.getBoundingClientRect().top + window.scrollY - hauteurMenu(), behavior: "instant" });
+    oublierSection();
+    function caler() {
+      finAnim = Date.now(); // ne pas aimanter juste après
+      var y = cible ? cible.getBoundingClientRect().top + window.scrollY - hauteurMenu() : 0;
+      window.scrollTo({ top: y, behavior: "instant" });
+    }
+    // la page bouge encore un peu après le chargement (carrousel, polices) :
+    // on recale quelques fois, sauf si le visiteur a déjà commencé à défiler
+    var touche = false;
+    ["wheel", "touchstart", "keydown", "mousedown"].forEach(function (e) {
+      window.addEventListener(e, function () { touche = true; }, { once: true, passive: true });
+    });
+    caler();
+    [150, 500, 1200].forEach(function (d) { setTimeout(function () { if (!touche) caler(); }, d); });
   });
 
   if ("onscrollend" in window) {

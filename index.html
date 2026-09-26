@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="../assets/css/styles.css" />
   <script src="../assets/js/theme.js"></script>
   <script src="../assets/js/defilement.js" defer></script>
+  <script src="../assets/js/video-accueil.js" defer></script>
 </head>
 
 <body>
@@ -86,8 +87,7 @@
 
     <!--  Banner Section -->
     <section id="accueil" class="banner-section position-relative d-flex align-items-end min-vh-100">
-      <video class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover" autoplay muted loop playsinline>
-        <source src="../assets/images/backgrounds/banner-video.mp4" type="video/mp4" />
+      <video data-video-accueil class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover" autoplay muted loop playsinline>
       </video>
       <div class="container">
         <div class="d-flex flex-column gap-4 pb-8 position-relative z-1">
@@ -978,7 +978,7 @@
   </footer>
 
   <div class="get-template hstack gap-2">
-    <a class="bg-primary px-3 py-2 rounded fs-3 fw-semibold text-dark" target="_blank"
+    <a class="bg-primary px-3 py-2 rounded fs-3 fw-semibold text-dark"
       href="index.html#contact">Contactons-nous</a>
     <button class="btn bg-primary p-2 round-52 rounded-circle hstack justify-content-center flex-shrink-0"
       id="scrollToTopBtn">
