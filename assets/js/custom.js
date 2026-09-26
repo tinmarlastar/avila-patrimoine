@@ -11,8 +11,9 @@ $(function () {
 
 
     // Featured Owl Carousel
-    $('.featured-projects-slider .owl-carousel').owlCarousel({
-        center: true,
+    var $featured = $('.featured-projects-slider .owl-carousel');
+    $featured.owlCarousel({
+        center: false, // cartes entières, alignées à gauche (plus de carte coupée)
         loop: true,
         margin: 30,
         nav: false,
@@ -35,6 +36,21 @@ $(function () {
             }
         }
     })
+
+    // Glissement latéral au pavé tactile (ou molette horizontale) : une carte par geste
+    var cumul = 0, bloque = false;
+    $featured.each(function () {
+        this.addEventListener('wheel', function (e) {
+            if (Math.abs(e.deltaX) <= Math.abs(e.deltaY)) return; // défilement vertical : on laisse la page défiler
+            e.preventDefault(); // évite le « retour arrière » du navigateur
+            if (bloque) return;
+            cumul += e.deltaX;
+            if (Math.abs(cumul) < 30) return;
+            $featured.trigger(cumul > 0 ? 'next.owl.carousel' : 'prev.owl.carousel', [600]);
+            cumul = 0; bloque = true;
+            setTimeout(function () { bloque = false; }, 650);
+        }, { passive: false });
+    });
 
 
     // Count

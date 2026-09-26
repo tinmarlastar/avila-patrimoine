@@ -16809,3 +16809,9 @@ html{scroll-padding-top:93px}
 section.py-5{padding-top:24px!important}
 @media (min-width:992px){section.py-lg-11{padding-top:32px!important}}
 @media (min-width:1200px){section.py-xl-12{padding-top:36px!important}}
+
+/* Carrousel « Moments de vie » : titre au-dessus de l'image, étiquettes en dessous */
+.featured-projects .portfolio-details{display:contents!important}
+.featured-projects .portfolio-details h3{order:-1}
+.featured-projects .owl-carousel{cursor:grab}
+.featured-projects .owl-carousel.owl-grab{cursor:grabbing}
