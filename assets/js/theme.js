@@ -10,7 +10,7 @@
   var root = document.documentElement;
 
   function saved() {
-    try { return localStorage.getItem(KEY) || "original"; } catch (e) { return "original"; }
+    try { return localStorage.getItem(KEY) || "ocean"; } catch (e) { return "ocean"; }
   }
   function find(id) {
     return THEMES.filter(function (t) { return t.id === id; })[0] || THEMES[0];
