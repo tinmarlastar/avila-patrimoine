@@ -2,7 +2,7 @@
 // Déposer les fichiers dans assets/videos/ en les numérotant sans trou :
 // accueil-1.mp4, accueil-2.mp4, accueil-3.mp4… Le script détecte ceux qui existent.
 (function () {
-  var DOSSIER = "../assets/videos/accueil-";
+  var DOSSIER = "assets/videos/accueil-";
   var MAX = 20;                 // numéros testés : accueil-1 à accueil-20
   var CLE = "video-accueil-derniere";
   var video = document.querySelector("video[data-video-accueil]");

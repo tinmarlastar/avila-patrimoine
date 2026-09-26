@@ -118,5 +118,19 @@ $(function () {
         majBouton();
     }
 
+
+    // Formulaire de contact : pas d'envoi à un service tiers, on ouvre un e-mail pré-rempli
+    document.querySelectorAll('form[data-contact-mailto]').forEach(function (form) {
+        form.addEventListener('submit', function (e) {
+            e.preventDefault();
+            var champ = function (sel) { var el = form.querySelector(sel); return el ? el.value.trim() : ''; };
+            var nom = champ('input[type=text]'), mail = champ('input[type=email]'), message = champ('textarea');
+            var corps = message + '\n\n' + nom + (mail ? ' — ' + mail : '');
+            window.location.href = 'mailto:' + form.dataset.contactMailto +
+                '?subject=' + encodeURIComponent('Prise de contact' + (nom ? ' — ' + nom : '')) +
+                '&body=' + encodeURIComponent(corps.trim());
+        });
+    });
+
 });
 
