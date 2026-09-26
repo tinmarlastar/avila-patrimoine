@@ -16822,3 +16822,6 @@ section.py-5{padding-top:24px!important}
 /* Bouton flottant « Contactons-nous » : s'efface sur la section 06 */
 .get-template a{transition:opacity .3s,visibility .3s}
 .get-template a.masque{opacity:0;visibility:hidden}
+
+/* Le point du logo reste visible quand le menu fixe prend la couleur d'accent */
+.header.fixed-header .brand-dot{color:var(--th-dark)}
