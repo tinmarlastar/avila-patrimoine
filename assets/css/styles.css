@@ -16804,3 +16804,8 @@ ul {
 
 /* Les ancres (#services…) s'arrêtent sous le menu fixe ; l'aimantation est dans js/defilement.js */
 html{scroll-padding-top:93px}
+
+/* Marge du haut des sections réduite : le contenu arrive vite sous le menu */
+section.py-5{padding-top:32px!important}
+@media (min-width:992px){section.py-lg-11{padding-top:48px!important}}
+@media (min-width:1200px){section.py-xl-12{padding-top:56px!important}}
