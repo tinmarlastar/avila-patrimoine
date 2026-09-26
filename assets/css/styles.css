@@ -16825,3 +16825,6 @@ section.py-5{padding-top:24px!important}
 
 /* Le point du logo reste visible quand le menu fixe prend la couleur d'accent */
 .header.fixed-header .brand-dot{color:#fff}
+
+/* Accompagnement : photos aux coins arrondis */
+.services .tab-pane img{border-radius:24px}
