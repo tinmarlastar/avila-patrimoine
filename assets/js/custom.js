@@ -18,9 +18,7 @@ $(function () {
         margin: 30,
         nav: false,
         dots: false,
-        autoplay: true,
-        autoplayTimeout: 5000,
-        autoplayHoverPause: false,
+        autoplay: false, // pas de défilement automatique : le visiteur fait glisser
         responsive: {
             0: {
                 items: 1
