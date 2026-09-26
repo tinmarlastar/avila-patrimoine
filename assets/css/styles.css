@@ -16828,3 +16828,6 @@ section.py-5{padding-top:24px!important}
 
 /* Accompagnement : photos aux coins arrondis */
 .services .tab-pane img{border-radius:24px}
+
+/* Accompagnement : les titres des étapes centrés dans leur colonne, sur tous les écrans */
+.services-tab .nav-tabs .nav-item .nav-link{width:100%;text-align:center}
