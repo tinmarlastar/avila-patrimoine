@@ -16800,3 +16800,4 @@ ul {
 @media (max-width:575.98px){.brand-logo{font-size:22px}}
 .hero-title{font-size:clamp(40px,8.2vw,128px)!important;white-space:nowrap}
 @media (max-width:575.98px){.hero-title{white-space:normal}}
+@media (max-width:575.98px){.d-flex:has(> .hero-title){flex-wrap:wrap}}
