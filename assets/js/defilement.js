@@ -8,13 +8,15 @@
 
   var anim = null, finAnim = 0, minuterie;
 
-  // Hauteur du menu une fois fixé (padding 20px en haut et en bas), même pendant
-  // sa transition de 0,5 s depuis la version haute (padding 28px).
+  var PADDING_MENU_FIXE = 12; // doit suivre .header.fixed-header dans styles.css
+
+  // Hauteur du menu une fois fixé, même pendant sa transition de 0,5 s
+  // depuis la version haute (padding 28px).
   function hauteurMenu() {
     var h = document.querySelector("header.position-fixed, header");
     if (!h) return 0;
     var cs = getComputedStyle(h);
-    return h.offsetHeight - parseFloat(cs.paddingTop) - parseFloat(cs.paddingBottom) + 40;
+    return h.offsetHeight - parseFloat(cs.paddingTop) - parseFloat(cs.paddingBottom) + 2 * PADDING_MENU_FIXE;
   }
 
   // lent au départ, lent à l'arrivée

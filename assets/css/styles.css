@@ -16803,7 +16803,7 @@ ul {
 @media (max-width:575.98px){.d-flex:has(> .hero-title){flex-wrap:wrap}}
 
 /* Les ancres (#services…) s'arrêtent sous le menu fixe ; l'aimantation est dans js/defilement.js */
-html{scroll-padding-top:93px}
+html{scroll-padding-top:77px}
 
 /* Marge du haut des sections réduite : le contenu arrive vite sous le menu */
 section.py-5{padding-top:24px!important}
@@ -16815,3 +16815,6 @@ section.py-5{padding-top:24px!important}
 .featured-projects .portfolio-details h3{order:-1}
 .featured-projects .owl-carousel{cursor:grab}
 .featured-projects .owl-carousel.owl-grab{cursor:grabbing}
+
+/* Menu fixe plus fin : 12px au lieu de 20px en haut et en bas (hauteur 77px) */
+.header.fixed-header{padding:12px 0}
