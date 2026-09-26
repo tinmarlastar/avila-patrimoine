@@ -1,8 +1,8 @@
 // Sélecteur de thème : un carré de couleur en haut à droite, quatre palettes.
 (function () {
   var THEMES = [
-    { id: "original", name: "Original Studiova", dark: "#1F2A2E", accent: "#C1FF72" },
     { id: "ocean", name: "Océan profond", dark: "#0B1F3A", accent: "#4FC3F7" },
+    { id: "original", name: "Ardoise et citron", dark: "#1F2A2E", accent: "#C1FF72" },
     { id: "graphite", name: "Graphite et orange", dark: "#151515", accent: "#FF6B2C" },
     { id: "violet", name: "Violet électrique", dark: "#16132B", accent: "#A78BFA" }
   ];
