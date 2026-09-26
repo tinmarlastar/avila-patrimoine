@@ -16794,3 +16794,9 @@ ul {
   color: var(--bs-dark);
   background-color: var(--bs-white);
 }/*# sourceMappingURL=styles.css.map */
+/* Logo texte : Avila Patrimoine */
+.brand-logo{display:inline-block;font-family:"Manrope",sans-serif;font-weight:700;font-size:30px;line-height:1;letter-spacing:-0.03em;white-space:nowrap}
+.brand-logo .brand-dot{color:var(--th-accent)}
+@media (max-width:575.98px){.brand-logo{font-size:22px}}
+.hero-title{font-size:clamp(40px,8.2vw,128px)!important;white-space:nowrap}
+@media (max-width:575.98px){.hero-title{white-space:normal}}
