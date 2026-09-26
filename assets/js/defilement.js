@@ -57,6 +57,15 @@
     window.addEventListener(e, function () { stopper(); }, { passive: true });
   });
 
+  // Arrivée depuis une autre page sur index.html#section : le navigateur saute à
+  // l'ancre avant la fin du chargement (images, vidéo) et tombe à côté. On recale.
+  window.addEventListener("load", function () {
+    var cible = location.hash && document.getElementById(decodeURIComponent(location.hash.slice(1)));
+    if (!cible) return;
+    finAnim = Date.now(); // ne pas aimanter juste après
+    window.scrollTo({ top: cible.getBoundingClientRect().top + window.scrollY - hauteurMenu(), behavior: "instant" });
+  });
+
   if ("onscrollend" in window) {
     window.addEventListener("scrollend", aimanter);
   } else { // Safari : pas d'événement scrollend, on attend la fin du défilement
