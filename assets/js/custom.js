@@ -37,6 +37,18 @@ $(function () {
         }
     })
 
+    // Titres de même hauteur (celle du plus long) : les photos et les étiquettes s'alignent
+    function egaliserTitres() {
+        var $t = $featured.find('.portfolio-details h3').css('min-height', '');
+        var max = 0;
+        $t.each(function () { max = Math.max(max, this.offsetHeight); });
+        $t.css('min-height', max + 'px');
+    }
+    egaliserTitres();
+    $featured.on('refreshed.owl.carousel resized.owl.carousel', egaliserTitres);
+    $(window).on('load resize', egaliserTitres);
+    if (document.fonts) document.fonts.ready.then(egaliserTitres);
+
     // Glissement latéral au pavé tactile (ou molette horizontale) : une carte par geste
     var cumul = 0, bloque = false;
     $featured.each(function () {
