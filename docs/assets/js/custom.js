@@ -104,14 +104,17 @@ $(function () {
 	});
 
 
-    // Bouton flottant « Contactons-nous » : masqué quand la section 06 est à l'écran
+    // Bouton flottant « Contactons-nous » : masqué en haut de page (comme la flèche de
+    // retour en haut, visible après 100 px) et quand la section 06 est à l'écran
     var contact = document.getElementById('contact');
     var boutonContact = document.querySelector('.get-template a[href$="#contact"]');
-    if (contact && boutonContact) {
+    if (boutonContact) {
         var majBouton = function () {
-            var r = contact.getBoundingClientRect();
-            // la section occupe l'écran : son haut est passé sous les 80 % de la fenêtre, son bas pas encore sous le menu
-            boutonContact.classList.toggle('masque', r.top < window.innerHeight * 0.8 && r.bottom > 80);
+            var enHaut = (document.documentElement.scrollTop || document.body.scrollTop) <= 100;
+            var r = contact ? contact.getBoundingClientRect() : null;
+            // la section 06 occupe l'écran : son haut est passé sous les 80 % de la fenêtre, son bas pas encore sous le menu
+            var surContact = r && r.top < window.innerHeight * 0.8 && r.bottom > 80;
+            boutonContact.classList.toggle('masque', enHaut || !!surContact);
         };
         window.addEventListener('scroll', majBouton, { passive: true });
         window.addEventListener('resize', majBouton);

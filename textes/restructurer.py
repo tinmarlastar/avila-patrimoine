@@ -170,6 +170,9 @@ def accueil(index, about):
     banniere, n = re.subn(r'(<video )([^>]*>)\s*<source src="[^"]*banner-video\.mp4"[^>]*>\s*',
                           r'\1data-video-accueil \2\n      ', banniere, count=1)
     assert n, "vidéo de la bannière introuvable"
+    # pas d'animation d'apparition sur la bannière : sur un écran peu haut, AOS ne la
+    # déclenchait jamais sans défiler, et le grand titre restait invisible
+    banniere = re.sub(r'\s+data-aos(?:-[a-z]+)?="[^"]*"', "", banniere)
 
     s1 = ancre(entete(section(index, "stats-facts"), "01", "Nos engagements"), "engagements")
     s1 = s1.replace('href="about-us.html"', 'href="#qui-suis-je"')
